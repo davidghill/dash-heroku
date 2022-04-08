@@ -35,7 +35,7 @@ from whitenoise import WhiteNoise   #for serving static files on Heroku
 # from textwrap import dedent as d
 
 # PyOWM library for weather data
-from pyowm import OWM
+# from pyowm import OWM
 
 # logging
 # from manageProjectLogging import manageProjectLogging

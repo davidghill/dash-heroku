@@ -9,3 +9,4 @@ pandas-datareader==0.8.1
 pandas-multiprocessing==0.2.1
 gunicorn
 whitenoise
+dash[dishcache]
