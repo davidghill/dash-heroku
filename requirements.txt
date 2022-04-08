@@ -4,7 +4,6 @@ pyowm==2.10.0
 cx-Oracle==7.3.0
 diskcache==5.2.1
 Flask-Compress==1.4.0
-"dash[diskcache]"
 Werkzeug==2.0.3
 pandas-datareader==0.8.1
 pandas-multiprocessing==0.2.1
